@@ -1,0 +1,4 @@
+#Thu Nov 30 17:03:12 PKT 2023
+base.0=G\:\\flutter practice\\Flutter-Firebase-Notifications-main\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

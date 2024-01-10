@@ -1,0 +1,23 @@
+com.example.flutter_firebase_notifications.app-jetified-window-1.0.0-beta04-0 C:\Users\dell\.gradle\caches\transforms-3\0a60ad9d6481d4ccd616a6864ab2c241\transformed\jetified-window-1.0.0-beta04\res
+com.example.flutter_firebase_notifications.app-core-1.6.0-1 C:\Users\dell\.gradle\caches\transforms-3\1e87a14ef26e2f179fb7097e6ebb3116\transformed\core-1.6.0\res
+com.example.flutter_firebase_notifications.app-jetified-play-services-base-18.0.1-2 C:\Users\dell\.gradle\caches\transforms-3\22d4118531b07fcd66719c1549375d01\transformed\jetified-play-services-base-18.0.1\res
+com.example.flutter_firebase_notifications.app-jetified-annotation-experimental-1.1.0-3 C:\Users\dell\.gradle\caches\transforms-3\3db69492cdc4cc50b819c35520425516\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.flutter_firebase_notifications.app-localbroadcastmanager-1.1.0-4 C:\Users\dell\.gradle\caches\transforms-3\5c81308a3094bb6e7dca01e07c274990\transformed\localbroadcastmanager-1.1.0\res
+com.example.flutter_firebase_notifications.app-jetified-firebase-common-20.3.2-5 C:\Users\dell\.gradle\caches\transforms-3\65dee440d70f74f794f61f7f10138ded\transformed\jetified-firebase-common-20.3.2\res
+com.example.flutter_firebase_notifications.app-jetified-play-services-basement-18.1.0-6 C:\Users\dell\.gradle\caches\transforms-3\7dc1f41420e28bcacfe125c3d1b945c2\transformed\jetified-play-services-basement-18.1.0\res
+com.example.flutter_firebase_notifications.app-media-1.1.0-7 C:\Users\dell\.gradle\caches\transforms-3\7e5483e786f84995d97c64ae75502d9e\transformed\media-1.1.0\res
+com.example.flutter_firebase_notifications.app-jetified-firebase-messaging-23.1.2-8 C:\Users\dell\.gradle\caches\transforms-3\921fe56e9f1b79fbf21e0b7e9161af70\transformed\jetified-firebase-messaging-23.1.2\res
+com.example.flutter_firebase_notifications.app-jetified-window-java-1.0.0-beta04-9 C:\Users\dell\.gradle\caches\transforms-3\bf32a12a88c0af69d6987097b94da873\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.flutter_firebase_notifications.app-debug-10 G:\flutter practice\Flutter-Firebase-Notifications-main\android\app\src\debug\res
+com.example.flutter_firebase_notifications.app-main-11 G:\flutter practice\Flutter-Firebase-Notifications-main\android\app\src\main\res
+com.example.flutter_firebase_notifications.app-google-services-12 G:\flutter practice\Flutter-Firebase-Notifications-main\build\app\generated\res\google-services\debug
+com.example.flutter_firebase_notifications.app-pngs-13 G:\flutter practice\Flutter-Firebase-Notifications-main\build\app\generated\res\pngs\debug
+com.example.flutter_firebase_notifications.app-resValues-14 G:\flutter practice\Flutter-Firebase-Notifications-main\build\app\generated\res\resValues\debug
+com.example.flutter_firebase_notifications.app-rs-15 G:\flutter practice\Flutter-Firebase-Notifications-main\build\app\generated\res\rs\debug
+com.example.flutter_firebase_notifications.app-mergeDebugResources-16 G:\flutter practice\Flutter-Firebase-Notifications-main\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.flutter_firebase_notifications.app-mergeDebugResources-17 G:\flutter practice\Flutter-Firebase-Notifications-main\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.flutter_firebase_notifications.app-merged_res-18 G:\flutter practice\Flutter-Firebase-Notifications-main\build\app\intermediates\merged_res\debug
+com.example.flutter_firebase_notifications.app-packaged_res-19 G:\flutter practice\Flutter-Firebase-Notifications-main\build\firebase_core\intermediates\packaged_res\debug
+com.example.flutter_firebase_notifications.app-packaged_res-20 G:\flutter practice\Flutter-Firebase-Notifications-main\build\firebase_messaging\intermediates\packaged_res\debug
+com.example.flutter_firebase_notifications.app-packaged_res-21 G:\flutter practice\Flutter-Firebase-Notifications-main\build\flutter_local_notifications\intermediates\packaged_res\debug
+com.example.flutter_firebase_notifications.app-packaged_res-22 G:\flutter practice\Flutter-Firebase-Notifications-main\build\path_provider_android\intermediates\packaged_res\debug
